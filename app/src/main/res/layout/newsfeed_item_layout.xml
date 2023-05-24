@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="4dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:gravity="center_vertical">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/iitjodhpur"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="16dp">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="College App IITJ"
+                    android:textSize="18sp"
+                    android:textColor="@color/black"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Date:"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="4/3/2023"
+                        android:id="@+id/date"
+                        android:layout_marginLeft="6dp"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/black"/>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time:"
+                        android:layout_marginLeft="@dimen/text_margin"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/black"/>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="3 pm"
+                        android:id="@+id/time"
+                        android:layout_marginLeft="6dp"
+                        android:fontFamily="@font/latolight"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/black"/>
+
+
+
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello, this app is made by Ritik Tiwari"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:id="@+id/NoticeTitle"
+            android:layout_marginVertical="@dimen/text_margin"/>
+        
+        <ImageView
+            android:id="@+id/NoticeImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_230sdp"
+            android:scaleType="fitXY"
+            android:layout_marginTop="12dp"/>
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

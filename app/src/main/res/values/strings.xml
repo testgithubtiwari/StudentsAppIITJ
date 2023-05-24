@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IITJ_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_cs">Computer Science and Engineering, today, plays a major role in transforming every aspect of human life - in addressing social challenges and catalyzing the ongoing wave of the industrial revolution. The department is driven by its commitment to excel in next generation technology development and research. Our mission is to strengthen industry-academia collaborations and prepare our students to contribute to multi-disciplinary projects for solving problems of national interest.</string>
+
+    <string name="about_college">Indian Institute of Technology Jodhpur (IIT Jodhpur or IITJ) is a public technical university located in Jodhpur in the state of Rajasthan in India. It is one of the eight new Indian Institutes of Technology (IITs) established by the Ministry of Human Resource Development, Government of India under The Institutes of Technology (Amendment) Act, 2011 which declares these eight IITs as well as the conversion of the Institute of Technology, Banaras Hindu University to IIT.The Act was passed in the Lok Sabha on 24 March 2011 and by the Rajya Sabha on 30 April 2012.</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginVertical="@dimen/text_margin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_margin="4dp">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5"
+                android:orientation="vertical"
+                android:gravity="center_vertical"
+                android:paddingLeft="4dp">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherName"
+                    android:text="Ritik Tiwari"
+                    android:textColor="#BC000000"
+                    android:textSize="@dimen/title_size"
+                    android:fontFamily="@font/latoregular"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherPost"
+                    android:text="HOD"
+                    android:textColor="#BC000000"
+                    android:textSize="@dimen/title_size"
+                    android:fontFamily="@font/latoregular"
+                    android:layout_marginTop="3dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/teacherEmail"
+                    android:text="rt936649@gmail.com"
+                    android:textColor="#BC000000"
+                    android:textSize="@dimen/text_size"
+                    android:fontFamily="@font/latoregular"
+                    android:layout_marginTop="3dp"/>
+                
+
+
+
+
+            </LinearLayout>
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:layout_marginVertical="@dimen/text_margin"
+                android:src="@drawable/avatar_image"
+                android:layout_weight="0.5"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/teacherImage"
+                />
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</com.google.android.material.card.MaterialCardView>
