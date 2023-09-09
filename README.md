@@ -16,11 +16,8 @@
 
 ##### Some of Screenshots from the app are:
 ![done1](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/a122edd6-d81e-41b8-a6a0-e5d7faed1afd)
-
 ![done2](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/336f6f59-909d-4156-99ca-cf7a225d2cda)
-
 ![done3](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/be8d3d01-3dcd-42c8-a6cf-4f181f342842)
-
 ![done4](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/551acd91-3d5a-4770-9bb4-1ed6832f8f64)
 
 
