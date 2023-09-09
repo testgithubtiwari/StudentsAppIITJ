@@ -15,14 +15,13 @@
 ###### The app utilizes Firebase as its backend database. Firebase offers secure data storage and real-time synchronization, ensuring that students have access to the latest information and updates.
 
 ##### Some of Screenshots from the app are:
-![Screenshot_2023-08-30-21-47-39-496_com example iitj_app](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/21831feb-fa19-4180-bd6d-f5038f6bf302)
+![done1](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/a122edd6-d81e-41b8-a6a0-e5d7faed1afd)
 
-![Screenshot_2023-08-30-21-48-12-374_com example iitj_app](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/ac864ed8-7ce3-4b76-9d41-42efb592a48f)
+![done2](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/336f6f59-909d-4156-99ca-cf7a225d2cda)
 
-![Screenshot_2023-08-30-21-47-53-963_com example iitj_app](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/4a99dec3-151b-47c7-9625-c8e744fb9521)
+![done3](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/be8d3d01-3dcd-42c8-a6cf-4f181f342842)
 
-![Screenshot_2023-08-30-21-51-50-763_com example adminapp_iitj](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/2639c9a5-a166-4cd7-b224-b54dfc36fd80)
+![done4](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/551acd91-3d5a-4770-9bb4-1ed6832f8f64)
 
-![Screenshot_2023-08-30-21-51-15-715_com example adminapp_iitj](https://github.com/testgithubtiwari/StudentsAppIITJ/assets/111584498/e784763a-838e-4459-bacb-ac684696a9cf)
 
 ### All the code files are in the master branch.
