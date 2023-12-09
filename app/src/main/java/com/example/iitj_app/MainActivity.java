@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         switch (item.getItemId())
         {
             case R.id.navigation_developer:
-                String url2="https://testgithubtiwari.github.io/myportfolio2/";
+                String url2="https://cheery-vacherin-711af7.netlify.app/";
                 Intent websiteIntent2 = new Intent(Intent.ACTION_VIEW);
                 websiteIntent2.setData(Uri.parse(url2));
                 startActivity(websiteIntent2);
