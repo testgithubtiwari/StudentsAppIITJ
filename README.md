@@ -38,7 +38,7 @@ gradle build
 ##### 2) Ensures students have access to the latest information and updates.
 
 ## ScreenShots
-[Follow this link to see all the screenshots of the app]()
+[Follow this link to see all the screenshots of the app](https://drive.google.com/drive/folders/1m4EpUdPeFTpVWhM1Ap08SDpH3yPmYU-p?usp=sharing)
 
 
 ## Contributing
